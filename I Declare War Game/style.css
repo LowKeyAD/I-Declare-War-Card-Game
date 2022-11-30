@@ -1,0 +1,73 @@
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+    background-color: limegreen;
+    
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  
+  section{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    
+  
+  }
+  
+  img{
+  
+    margin: 3%
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
+  h1{
+    font-size: 90px;
+    text-align: center;
+  }
+  
+  h2{
+    font-size: 35px;
+    
+  }
+  
+  button{
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   border-color: black;
+  
+   
+   height: 88px;
+   width: 119px;
+   
+   font-size: 100%;
+   background-image: url(https://www.siliconrepublic.com/wp-content/uploads/2018/12/seed-funding-time-bomb-AdobeStock_134446208-718x523.jpeg);
+   background-size: contain;
+   background-repeat: no-repeat;
+  
+  
+  
+  }
+  
+  h3{
+    font-size: 60px;
+    font: bolder;
+    font-style: italic;
+    text-align: center;
+  }
+  

@@ -1,3 +1,3 @@
-# Projects
+# I Declare War
 
-Here is where you will find all the projects that I have created.
+I created the popular card game I declare war.
